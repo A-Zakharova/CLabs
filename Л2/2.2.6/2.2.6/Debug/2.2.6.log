@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\Программирование\2\2.2.6\2.2.6\Source.cpp(26,68): warning C4244: функция: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\USER\Desktop\Программирование\2\2.2.6\2.2.6\Source.cpp(29,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  2.2.6.vcxproj -> C:\Users\USER\Desktop\Программирование\2\2.2.6\Debug\2.2.6.exe

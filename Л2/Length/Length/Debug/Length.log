@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(18,12): warning C4101: res: неиспользованная локальная переменная
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(125,21): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(125,21): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(125,21): message : отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(125,21): message : этот аргумент используется в качестве размера буфера
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(144,21): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(144,21): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(144,21): message : отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+C:\Users\USER\Desktop\Программирование\2\Length\Length\Source.cpp(144,21): message : этот аргумент используется в качестве размера буфера
+  Length.vcxproj -> C:\Users\USER\Desktop\Программирование\2\Length\Debug\Length.exe
