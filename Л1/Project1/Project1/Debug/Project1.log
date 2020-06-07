@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\Программирование\Л1\Project1\Project1\Source.cpp(17,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\USER\Desktop\Программирование\Л1\Project1\Project1\Source.cpp(33,21): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\USER\Desktop\Программирование\Л1\Project1\Project1\Source.cpp(33,21): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+C:\Users\USER\Desktop\Программирование\Л1\Project1\Project1\Source.cpp(33,21): message : отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+C:\Users\USER\Desktop\Программирование\Л1\Project1\Project1\Source.cpp(33,21): message : этот аргумент используется в качестве размера буфера
+  Project1.vcxproj -> C:\Users\USER\Desktop\Программирование\Л1\Project1\Debug\Project1.exe
