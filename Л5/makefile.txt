@@ -1,0 +1,14 @@
+prog.exe: main.o
+	gcc -o prog.exe main.o
+
+main.o: main.c
+	gcc -O0 -g3 -Wall -c main.c
+	gcc -masm=intel -g3 -Wall -c main.c -S
+
+clean:
+	rm -rf *.s *.o *.exe
+
+run:
+	prog.exe
+
+build: prog.exe
