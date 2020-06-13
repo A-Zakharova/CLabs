@@ -1,0 +1,3 @@
+﻿  TreeG.cpp
+C:\Users\USER\Desktop\Программирование\Л6\Lab6\Lab6\TreeG.cpp(25,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab6.vcxproj -> C:\Users\USER\Desktop\Программирование\Л6\Lab6\Debug\Lab6.exe
